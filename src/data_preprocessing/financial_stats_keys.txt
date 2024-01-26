@@ -1,0 +1,14 @@
+netincomeloss:A measure of the company's profit from core business operations.
+revenuefromcontractwithcustomerexcludingassessedtax: Total revenue, a primary indicator of a company's financial health.
+costofgoodsandservicessold: Direct costs tied to the production of goods sold by the company.
+grossprofit: Indicates the profitability of the company's core business activities.
+researchanddevelopmentexpense: High R&D expenses can indicate future growth potential.
+sellinggeneralandadministrativeexpense: Reflects the company's operational efficiency.
+operatingincomeloss: Earnings before interest and taxes, a key profitability measure.
+netincomeloss: The company's total profit, a primary measure of financial health.
+earningspersharediluted: Indicates profitability on a per-share basis, widely used by investors.
+cashandcashequivalentsatcarryingvalue: Indicates the company's liquidity and short-term financial health.
+inventorynet: Can affect the company's cash flow and profitability.
+longtermdebtcurrent: Insights into the company’s debt structure and financial stability.
+longtermdebtnoncurrent: Insights into the company’s debt structure and financial stability.
+stockholdersequity: Represents the net value of the company.

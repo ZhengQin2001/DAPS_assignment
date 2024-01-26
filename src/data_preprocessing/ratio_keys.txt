@@ -1,0 +1,16 @@
+priceEarningsRatio: Provides a valuation metric comparing the company's share price to its earnings per share.
+netProfitMargin: Represents how much net income is generated as a percentage of revenues.
+quickRatio: Similar to the current ratio but excludes inventory from current assets.
+interestCoverage: Measures a company's ability to make interest payments on its debt.
+dividendYield: Indicates the company’s dividend as a percentage of its stock price.
+priceToBookRatio: Compares the company's market value to its book value.
+enterpriseValueMultiple: Reflects a company's total value relative to key financial metrics like EBITDA.
+effectiveTaxRate: The average rate at which a corporation is taxed.
+returnOnAssets: Shows how profitable a company's assets are in generating revenue.
+cashFlowToDebtRatio: Indicates the company's ability to cover its debt with its cash flow.
+payoutRatio: The proportion of earnings paid out as dividends to shareholders.
+ebtPerEbit: Reflects profitability before tax and interest as a proportion of overall earnings.
+debtRatio: Measures the extent of a company’s leverage in relation to its assets.
+companyEquityMultiplier: Indicates the company's financial leverage, calculated as total assets divided by total equity.
+receivablesTurnover: Measures how efficiently a company uses its assets.
+priceToSalesRatio: A valuation ratio that compares a company’s stock price to its revenues.
